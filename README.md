@@ -2,6 +2,8 @@
 
 Static landing page for Octaform, packaged for Cloudflare Pages.
 
+Live site: https://octaform.pages.dev
+
 ## Structure
 
 - `public/index.html` — site markup, styles, and interactions
